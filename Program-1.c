@@ -1,7 +1,7 @@
 #include <stdio.h>
 main(){
 	
-	printf("HelloWorld_1");
-	printf("User A changed");
+	printf("HelloWorld_1_Changed from A");
+	printf("User A changed_Changed from A");
 
 }
